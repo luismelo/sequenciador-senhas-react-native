@@ -54,11 +54,11 @@ src/
 
 ## 👩‍💻 Autora
 
-- Daiane Araújo
+- Luis Felipe
 
 ## 📄 Licença
 
-MIT © Daiane Araújo
+MIT © Luis Felipe
 
 ---
 
