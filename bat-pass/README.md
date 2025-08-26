@@ -52,7 +52,7 @@ src/
   services/           # Lógica de geração de senha
 ```
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
 - Luis Felipe
 
